@@ -1,12 +1,9 @@
 # About Me:
 Hi, I’m Sai Arvind Krishnan — a full-stack engineer and backend specialist, currently pursuing my Master’s in Software Engineering at Arizona State University. I architect systems that move fast, scale cleanly, and hold their own under load.<br>
 
-My latest work is ZenChrono — a backend built from the ground up for productivity. It features secure multi-factor OAuth authentication, seamless task tracking, dynamic screen time logging, and real-time reminders. Designed with Node.js, MongoDB, Express, and deployed with Heroku, Redis, and AWS — ZenChrono isn’t just code, it’s infrastructure that thinks ahead.
-<br>
-I’ve also developed a RoBERTa-powered Twitter clone with stance detection, real-time chat platforms using WebSockets, a deep learning music mashup engine with PyTorch and Librosa, and a full-stack e-commerce platform. From scalable REST APIs to intuitive UI flows, I bridge the gap between architecture and experience.
-<br>
-I’m fluent in JavaScript, Python, C++, React.js, Redis, AWS, WebSockets, Passport.js, and everything it takes to deliver production-grade software from zero to deployment. I follow Agile workflows, write unit-tested code, and document APIs like someone else actually has to read them.
-<br>
+My latest work is ZenChrono — a backend built from the ground up for productivity. It features secure multi-factor OAuth authentication, seamless task tracking, dynamic screen time logging, and real-time reminders. Designed with Node.js, MongoDB, Express, and deployed with Heroku, Redis, and AWS — ZenChrono isn’t just code, it’s infrastructure that thinks ahead.<br>
+I’ve also developed a RoBERTa-powered Twitter clone with stance detection, real-time chat platforms using WebSockets, a deep learning music mashup engine with PyTorch and Librosa, and a full-stack e-commerce platform. From scalable REST APIs to intuitive UI flows, I bridge the gap between architecture and experience.<br>
+
 I like backend challenges, frontend precision, and system designs that don’t crumble when traffic spikes. If you’re looking for someone who understands the trade-offs, writes with intent, and ships with purpose — let’s build something.
 <br>
 
