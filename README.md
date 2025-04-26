@@ -1,5 +1,5 @@
 # About Me:
-I only have one mood: "Fuck it we Ball"
+"When all plans fail, the wise warrior simply balls." — Sun Tzu, probably
 <br>
 
 
