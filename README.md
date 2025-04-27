@@ -1,5 +1,7 @@
 # About Me:
-"When all plans fail, the wise warrior simply balls." — Sun Tzu, probably
+🌅🪟📻📼🛏️🍃
+今度は今度。今は今。
+静かに、ゆっくりと、生きている。
 <br>
 
 
