@@ -1,7 +1,7 @@
 <h1 align="center">sai arvind krishnan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgycjRraGJka2dxZW5yZThwdG94bGx3ajNtYWR2bjV6ZjVzdnZ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="460" />
 </p>
 
 <p align="center">
@@ -30,24 +30,14 @@
 <h3 align="center">🧠 focus</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" /><br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVsY3I4aXkwM3VjZG1wbzhlZ3o0aXJ2czJhZzRpbm9sOXpsN3VnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" /><br/><br/>
   ai-assisted full-stack apps<br/>
-  automation agents • scalable backend systems
+  autonomous agents • scalable backends
 </p>
 
 ---
 
-<h3 align="center">🩶 aesthetic & flow</h3>
+<h3 align="center">💡 motion & design</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
-</p>
-
----
-
-<p align="center">
-  <i>stay minimal. ship fast.</i><br/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" />
-</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3YxejlzZnh1dDB4ZXRiY3ZraXFjNHNtOW5jNHZ3cTdvMnV3amdzNCZlcD12M
