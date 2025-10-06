@@ -1,20 +1,18 @@
 <h1 align="center">sai arvind krishnan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgycjRraGJka2dxZW5yZThwdG94bGx3ajNtYWR2bjV6ZjVzdnZ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="460" />
+  <img src="https://media.giphy.com/media/YRVP7mapl24G6/giphy.gif" width="480" />
 </p>
 
 <p align="center">
   <b>full-stack • ai/ml • automation</b><br/>
-  building quiet systems that do loud things.
+  building quiet systems that do loud things
 </p>
 
 ---
 
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/12345678/demo.mp4"
-         width="720" autoplay loop muted playsinline>
-  </video>
+  <img src="https://media.giphy.com/media/SiMcadhDEZDm1hL1Fq/giphy.gif" width="700" />
 </p>
 
 ---
@@ -30,14 +28,24 @@
 <h3 align="center">🧠 focus</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVsY3I4aXkwM3VjZG1wbzhlZ3o0aXJ2czJhZzRpbm9sOXpsN3VnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" /><br/><br/>
-  ai-assisted full-stack apps<br/>
-  autonomous agents • scalable backends
+  <img src="https://media.giphy.com/media/pFH5K5Yh1kUqN4YhAq/giphy.gif" width="400" /><br/><br/>
+  ai-assisted full-stack systems<br/>
+  automation agents • scalable backend architecture
 </p>
 
 ---
 
-<h3 align="center">💡 motion & design</h3>
+<h3 align="center">🔥 energy</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3YxejlzZnh1dDB4ZXRiY3ZraXFjNHNtOW5jNHZ3cTdvMnV3amdzNCZlcD12M
+  <img src="https://media.giphy.com/media/qU5IxhEldM2sI/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/H0X0lTdVJd8j0ZfI3b/giphy.gif" width="220" />
+</p>
+
+---
+
+<p align="center">
+  <i>stay minimal. strike clean.</i><br/>
+  <img src="https://media.giphy.com/media/3o6Zt8zb1s9O7vVbW8/giphy.gif" width="180" />
+</p>
