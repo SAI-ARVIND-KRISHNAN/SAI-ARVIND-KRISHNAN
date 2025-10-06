@@ -1,16 +1,16 @@
-<h1 align="center">Vannakam!</h1>
+<h1 align="center">hey, i'm sai 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/yplw8ecK8gEAAAAC/kimetsu.gif" width="160" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" />
 </p>
 
 <p align="center">
-  full-stack & ai/ml developer
+  full-stack & ai/ml developer • i build things that actually work
 </p>
 
 ---
 
-### tech i use
+### 🛠 tech i use
 - JavaScript / TypeScript / Python  
 - React, Node.js, Express, FastAPI  
 - MongoDB, PostgreSQL, Redis  
@@ -19,14 +19,14 @@
 
 ---
 
-### what i’m into
-- fast full-stack systems  
+### ⚡ what i’m into
+- building fast, scalable systems  
 - ai agents & automation  
-- clean apis, minimal design  
+- minimal design, clean apis  
 
 ---
 
-### stats
+### 📊 stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kokushibuo&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokushibuo&layout=compact&hide_border=true&theme=tokyonight" height="160" />
@@ -35,6 +35,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/yplw8ecK8gEAAAAC/kimetsu.gif" width="90" /><br/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" /><br/>
   <i>creating systems that move quietly.</i>
 </p>
